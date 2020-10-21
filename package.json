@@ -1,0 +1,26 @@
+{
+  "name": "uwa_hw09_readme_generator",
+  "version": "1.0.0",
+  "description": "A commandline readme generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAMulc/README_Generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "Robert Mulcrone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAMulc/README_Generator/issues"
+  },
+  "homepage": "https://github.com/RAMulc/README_Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
