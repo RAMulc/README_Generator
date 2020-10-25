@@ -10,10 +10,11 @@
 
 ## Links
 
-<a href=https://github.com/RAMulc/README_Generator/blob/main/demo/ReadmeDemo.webm>Video Demo</a>
-<a href=https://github.com/RAMulc/README_Generator/blob/main/demo/SampleREADME.md>Sample README</a>
-
-Repo: https://github.com/RAMulc/README_Generator 
+<a href="https://github.com/RAMulc/README_Generator/blob/main/demo/ReadmeDemo.webm">Video Demo</a>
+<br>
+<a href="https://github.com/RAMulc/README_Generator/blob/main/demo/SampleREADME.md">Sample README</a>
+<br>
+<a href="https://github.com/RAMulc/README_Generator">Repo</a> 
 
 ## Description
 
