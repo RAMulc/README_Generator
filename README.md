@@ -10,10 +10,10 @@
 
 ## Links
 
-[Demonstration ]: E:\UWA\Homework\UWA_HW09_README_Generator\demo\ReadmeDemo.webm
-[Sample README]: E:\UWA\Homework\UWA_HW09_README_Generator\demo\SampleREADME.md
+<a href=https://github.com/RAMulc/README_Generator/blob/main/demo/ReadmeDemo.webm>Video Demo</a>
+<a href=https://github.com/RAMulc/README_Generator/blob/main/demo/SampleREADME.md>Sample README</a>
 
- 
+Repo: https://github.com/RAMulc/README_Generator 
 
 ## Description
 
@@ -55,8 +55,6 @@ Run npm install to install inquirer and its dependencies.
 
   - *Enter any contact instruction(s).* Enter any additional contact information.
 
-    []: 
-
     
 
 NOTE: 
@@ -65,7 +63,7 @@ NOTE:
 2. If **package.json** exists in the working directory, default responses will be obtained from the file for TITLE, DESCRTIPTION and LICENSE. These may be overridden by the user.
 3. A table of contents will be added to the README file, with links to the relevant sections.
 
-<img src="E:\UWA\Homework\UWA_HW09_README_Generator\demo\Screenshot.png" style="zoom:50%;" />
+<img src="https://github.com/RAMulc/README_Generator/blob/main/demo/Screenshot.png" style="zoom:50%;" />
 
 ------
 
