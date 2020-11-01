@@ -4,7 +4,7 @@
 
 ------
 
-<!-- toc -->
+<a href="#heading-1">Links</a>
 
 ------
 
