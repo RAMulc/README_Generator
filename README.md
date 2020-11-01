@@ -4,7 +4,7 @@
 
 ------
 
-[Contact](#heading-4)
+[Contact](## Contact)
 
 ------
 
