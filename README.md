@@ -4,6 +4,10 @@
 
 ------
 
+[Links](#Links)
+[Description](#Description)
+[Installation](#Installation)
+[Usage](#Usage)
 [Contact](#Contact)
 
 ------
