@@ -4,7 +4,7 @@
 
 ------
 
-<a href="#heading-1">Links</a>
+<a href="#heading-5">Contact</a>
 
 ------
 
