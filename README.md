@@ -4,7 +4,7 @@
 
 ------
 
-<a href="#heading-5">Contact</a>
+[Contact](heading-5)
 
 ------
 
