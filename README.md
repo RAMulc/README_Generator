@@ -5,9 +5,13 @@
 ------
 
 [Links](#Links)
+<br>
 [Description](#Description)
+<br>
 [Installation](#Installation)
+<br>
 [Usage](#Usage)
+<br>
 [Contact](#Contact)
 
 ------
